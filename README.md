@@ -1,6 +1,6 @@
 Com a informació bàsica del meu programa crec que es poden tenir en compte dues coses importatnts:
 
-- Lectura de dades:
+- **Lectura de dades:**
   Quan fem la lectura dels fitxers d'assignatures, just abans del main, ordenem aquestes una llista d'assignatures de manera que totes les que son de tipus "g" es posen abans que les de tipus "r".
   Els fitxers que es generen en aquesta funció són la llista d'assignatures, la llista d'incompatibilitats i els diferents grau-curs que hi ha.
   
