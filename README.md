@@ -9,4 +9,7 @@ Com a informació bàsica del meu programa crec que es poden tenir en compte due
 
   Per tant, si que és cert que és pitjor en el sentit que tarda més, però millor en el sentit que, a part de trobar la que està al moodle (vaig fer escriure cada cop que modificava la solució òptima), en troba     una amb una dispersió més gran, per tant millor que la trobada a les proves fetes a l'enunciat de la pràctica.
 
+- Càlcul de desviacions:
+  Primerament vaig fer el mètode per trobar la desviació d'una solució completa "calculDesviacio()". Posteriorment, després de fer una pregunta al professor sobre la possible poda a partir del càlcul de la         desviació ideal, vaig fer el mètode "desvideal()". El càlcul d'aquest últim mètode coincideix amb l'anterior si la solució és completa, per tant podria haver esborrat el primer mètode. Li he deixat perquè he     considerat que no tenia una gran importància.
+
  
